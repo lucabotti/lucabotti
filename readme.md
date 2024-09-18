@@ -1,6 +1,6 @@
 
 
-![👋 Hi, my name is Luca Botti]![Header](./github-header-image.png)
+![Header](./github-header-image.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=lucabotti&label=Profile%20views&color=0e75b6&style=flat)
 
