@@ -21,7 +21,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 💼 I'm currently working on: **💻 Microservices on Kubernetes with Kafka and MongoDB**
 - 🌱 I'm currently learning: **📚 Exploring Rust and GoLang**
 - 💬 Ask me about: **💡 Java, Python, Linux, PostgreSQL, MongoDB, RESTful APIs, Cloud**
 - ⚡ Fun fact: **🎢 I once run a 48 hours debugging and fixing marathon to production**
