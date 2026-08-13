@@ -36,7 +36,7 @@
   <img width="48%" src="https://github-stats-extended.vercel.app/api?username=lucabotti&theme=transparent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
 </p>
 <p align="left">  
-<img width="48%" src="https://streak-stats.demolab.com/?user=lucabotti&theme=transparent&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lucabotti&theme=dark&card_width=500&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left">
